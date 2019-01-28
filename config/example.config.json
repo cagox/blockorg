@@ -1,0 +1,12 @@
+{
+	"StaticPath"        : "/home/USER/go/src/github.com/cagox/blockorg/static",
+	"TemplateRoot"      : "/home/USER/go/src/github.com/cagox/blockorg/templates",
+	"AdminToken"        : "SomethingLongAndHardToGuessButThatYouCanGetToEasily",
+	"ManifestoPath"     : "/home/USER/.blockorg/manifesto.md",
+	"MongoUserName"     : "blockUser",
+	"MongoPassword"     : "password",
+	"MongoServerURL"    : "127.0.0.1:27017",
+	"AuthKey"           : "a 64 character string",
+	"EncKey"            : "a 32 character string"
+	
+}
